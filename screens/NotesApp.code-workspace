@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "NotesApp",
+			"path": ".."
+		},
+		{
+			"name": "NoteApp",
+			"path": "../../NoteApp"
+		}
+	],
+	"settings": {
+		"folder-color.pathColors": []
+	}
+}
